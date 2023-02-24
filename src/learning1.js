@@ -12,7 +12,7 @@ import { useState } from 'react';
 import { SafeAreaView, StyleSheet, Text, View, Image, Button, Pressable, TouchableOpacity, Alert, TextInput, } from 'react-native';
 
 
-export default function Learnig1() {
+export default function Learning1() {
 
     let str = "Hi";
 
